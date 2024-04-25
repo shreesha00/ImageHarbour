@@ -1,6 +1,3 @@
-[submodule "eRPC"]
-	path = eRPC
-	url = https://github.com/erpc-io/eRPC.git
 [submodule "RDMA"]
 	path = RDMA
 	url = https://github.com/dassl-uiuc/RDMA.git
