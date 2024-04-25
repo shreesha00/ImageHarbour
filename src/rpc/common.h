@@ -24,6 +24,8 @@ const uint8_t IH_SVR_RPCID_OFFSET = 64;
 /* Image Server Interfaces */
 const uint8_t FETCH_IMAGE = 1;
 
+const size_t PAGE_SIZE = 4096;
+
 enum Status {
     OK = 0,
     ERROR = 1,

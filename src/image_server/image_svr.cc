@@ -1,23 +1,18 @@
 #include "image_server.h"
 #include "signal.h"
+using namespace imageharbour;
 
-void sigint_handler(int _signum)
-{
-	lazylog::RPCTransport::Stop();
-}
+void sigint_handler(int _signum) { RPCTransport::Stop(); }
 
-int main(int argc, const char *argv[])
-{
-	using namespace lazylog;
+int main(int argc, const char *argv[]) {
+    signal(SIGINT, sigint_handler);
 
-	signal(SIGINT, sigint_handler);
+    Properties prop;
+    ParseCommandLine(argc, argv, prop);
 
-	Properties prop;
-	ParseCommandLine(argc, argv, prop);
+    ImageServer image_svr;
+    image_svr.Initialize(prop);
+    image_svr.Finalize();
 
-	DataLog datalog_svr;
-	datalog_svr.Initialize(prop);
-	datalog_svr.Finalize();
-
-	return 0;
+    return 0;
 }
