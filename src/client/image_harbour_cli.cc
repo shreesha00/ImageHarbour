@@ -33,7 +33,7 @@ void ImageHarbourClient::InitializeConn(const Properties& p, const std::string& 
     }
     rpc_use_cnt_.fetch_add(1);
 
-    uint64_t image_server_thread_count = std::stoi(p.GetProperty("image_server.threadcount", "1"));
+    uint64_t image_server_thread_count = std::stoi(p.GetProperty(PROP_THREADCOUNT, PROP_THREADCOUNT_DEFAULT));
     uint8_t remote_rpc_id = local_rpc_cnt_.fetch_add(1) % image_server_thread_count + IH_SVR_RPCID_OFFSET;
 
     session_num_ = rpc_->create_session(svr, remote_rpc_id);
@@ -60,6 +60,23 @@ void ImageHarbourClient::Finalize() {
         delete nexus_;
         nexus_ = nullptr;
     }
+}
+
+void ImageHarbourClient::FetchImageMetadata(const std::string& image_name, std::string& temp) {
+    memcpy(req_.buf_, image_name.c_str(), image_name.size());
+
+    rpc_->resize_msg_buffer(&req_, image_name.size());
+    RPCToken tkn;
+    rpc_->enqueue_request(session_num_, FETCH_IMAGE, &req_, &resp_, imageharbour_rpc_cont_func_async, &tkn);
+
+    while (!tkn.Complete()) {
+        RunERPCOnce();
+    }
+
+    if (resp_.get_data_size() > sizeof(Status)) {
+        temp = std::move(std::string(reinterpret_cast<char*>(resp_.buf_), resp_.get_data_size()));
+    }
+    return;
 }
 
 }  // namespace imageharbour

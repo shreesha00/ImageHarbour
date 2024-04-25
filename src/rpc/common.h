@@ -2,8 +2,6 @@
 
 #include <string>
 
-#include "log_entry.h"
-
 namespace imageharbour {
 
 const std::string PROP_IH_SVR_URI = "image_harbour.server_uri";
@@ -17,6 +15,9 @@ const std::string PROP_IH_MSG_SIZE_DEFAULT = "8192";
 
 const std::string PROP_IH_FOLDER_PATH = "image_harbour.folder_path";
 const std::string PROP_IH_FOLDER_PATH_DEFAULT = "/data/";
+
+const std::string PROP_THREADCOUNT = "image_harbour.threadcount";
+const std::string PROP_THREADCOUNT_DEFAULT = "1";
 
 const uint8_t IH_CLI_RPCID_OFFSET = 0;
 const uint8_t IH_SVR_RPCID_OFFSET = 64;

@@ -16,7 +16,7 @@ class ImageHarbourClient : public ERPCTransport {
     }
     void Finalize() override;
 
-    void FetchImageMetadata(const std::string &image_name);
+    void FetchImageMetadata(const std::string &image_name, std::string &temp);
 
    protected:
     int session_num_;

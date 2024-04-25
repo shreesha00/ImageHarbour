@@ -8,7 +8,7 @@ std::string ImageServer::folder_path_ = "";
 
 void svr_sm_handler(int, erpc::SmEventType, erpc::SmErrType, void *) {}
 
-ImageServer::ImageServer() : {}
+ImageServer::ImageServer() {}
 ImageServer::~ImageServer() {}
 
 void ImageServer::Initialize(const Properties &p) {
@@ -28,13 +28,14 @@ void ImageServer::Initialize(const Properties &p) {
     nexus_->register_req_func(FETCH_IMAGE, FetchImageHandler);
 
     // start n threads to handle append entry RPCs
-    const int n_th = std::stoi(p.GetProperty("threadcount", "1"));
+    const int n_th = std::stoi(p.GetProperty(PROP_THREADCOUNT, PROP_THREADCOUNT_DEFAULT));
     for (int i = 0; i < n_th; i++) {
         server_threads_.emplace_back(std::move(std::thread(ImageServer::fetch_server_func, p, i)));
     }
 
     while (run_) {
         ;  // do something, print server statistics etc
+        sleep(1);
     }
 }
 
@@ -43,10 +44,12 @@ void ImageServer::Finalize() {
     delete nexus_;
 }
 
-void ImageServer::fetch_server_func(const Properties &p) {
+void ImageServer::fetch_server_func(const Properties &p, int thread_id) {
     const uint8_t phy_port = std::stoi(p.GetProperty("erpc.phy_port", "0"));
 
-    if (!rpc_) rpc_ = new erpc::Rpc<erpc::CTransport>(nexus_, nullptr, 0, svr_sm_handler, phy_port);
+    if (!rpc_)
+        rpc_ =
+            new erpc::Rpc<erpc::CTransport>(nexus_, nullptr, IH_SVR_RPCID_OFFSET + thread_id, svr_sm_handler, phy_port);
     rpc_use_cnt_.fetch_add(1);
 
     const uint64_t msg_size = std::stoull(p.GetProperty(PROP_IH_MSG_SIZE, PROP_IH_MSG_SIZE_DEFAULT));
@@ -63,8 +66,9 @@ void ImageServer::FetchImageHandler(erpc::ReqHandle *req_handle, void *context) 
     auto *req = req_handle->get_req_msgbuf();
     auto &resp = req_handle->pre_resp_msgbuf_;
 
-    size_t len = 0;
-    rpc_->resize_msg_buffer(&resp, len);
+    memcpy(resp.buf_, "Hello, world!", 14);
+
+    rpc_->resize_msg_buffer(&resp, 14);
     rpc_->enqueue_response(req_handle, &resp);
 }
 

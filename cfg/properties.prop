@@ -1,0 +1,4 @@
+image_harbour.server_uri=10.10.1.2:31850
+image_harbour.client_uri=10.10.1.1:31851
+image_harbour.msg_size=6291456
+image_harbour.threadcount=18

@@ -12,7 +12,6 @@
 
 #include "../rpc/common.h"
 #include "../rpc/erpc_transport.h"
-#include "datalog_client.h"
 #include "glog/logging.h"
 
 namespace imageharbour {
@@ -31,10 +30,10 @@ class ImageServer : public ERPCTransport {
    protected:
     static void FetchImageHandler(erpc::ReqHandle *req_handle, void *context);  // called from middle man
 
-    static void fetch_server_func(const Properties &p);
+    static void fetch_server_func(const Properties &p, int thread_id);
 
    protected:
-    static std::vector<std::thread> server_threads_;
+    std::vector<std::thread> server_threads_;
     static std::string folder_path_;
 };
 }  // namespace imageharbour
