@@ -20,12 +20,12 @@ const std::string PROP_THREADCOUNT = "image_harbour.threadcount";
 const std::string PROP_THREADCOUNT_DEFAULT = "1";
 
 const std::string PROP_MEM_SERVERS = "image_harbour.memory_servers";
-const std::string PROP_MEM_SERVERS_DEFAULT = "localhost:31860"
+const std::string PROP_MEM_SERVERS_DEFAULT = "localhost:31860";
 
-const std::string PROP_MEM_PER_SERVER_GIB = "image_harbour.memory_per_server_gib"
+const std::string PROP_MEM_PER_SERVER_GIB = "image_harbour.memory_per_server_gib";
 const std::string PROP_MEM_PER_SERVER_GIB_DEFAULT = "1"
 
-const uint8_t IH_CLI_RPCID_OFFSET = 0;
+    const uint8_t IH_CLI_RPCID_OFFSET = 0;
 const uint8_t IH_SVR_RPCID_OFFSET = 64;
 
 /* Image Server Interfaces */
