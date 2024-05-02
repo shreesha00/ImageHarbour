@@ -10,12 +10,6 @@
 
 namespace imageharbour {
 
-struct ServerContext {
-    erpc::MsgBuffer resp_buf_;
-    int session_num_;
-    int thread_id_;
-};
-
 class ERPCTransport : public RPCTransport {
    public:
     static void RunERPCOnce();

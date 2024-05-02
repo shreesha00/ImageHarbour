@@ -13,6 +13,13 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(glog)
 
+FetchContent_Declare(
+    parallel_hashmap 
+    GIT_REPOSITORY https://github.com/greg7mdp/parallel-hashmap.git 
+    GIT_TAG master
+) 
+FetchContent_MakeAvailable(parallel_hashmap)
+
 if(NOT ERPC_DIR)
     set(ERPC_DIR ${CMAKE_SOURCE_DIR}/../eRPC)
 endif()

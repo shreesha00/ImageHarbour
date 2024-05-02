@@ -32,6 +32,9 @@ const uint8_t IH_SVR_RPCID_OFFSET = 64;
 const uint8_t FETCH_IMAGE = 1;
 
 const size_t PAGE_SIZE = 4096;
+const size_t CACHE_GRANULARITY_MIB = 16;
+const size_t MIB = 1024 * 1024;
+const size_t GIB_TO_CHUNK = 1024 / CACHE_GRANULARITY_MIB;
 
 enum Status {
     OK = 0,

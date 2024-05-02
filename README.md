@@ -14,6 +14,7 @@ make -j
 
 ### Building ImageHarbour
 ```
+sudo apt-get install zlib1g-dev
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 ```
