@@ -12,9 +12,12 @@ int main(int argc, const char *argv[]) {
 
     cli.InitializeConn(prop, prop.GetProperty(PROP_IH_SVR_URI, PROP_IH_SVR_URI_DEFAULT), nullptr);
 
-    std::string temp;
-    cli.FetchImageMetadata("test.img", temp);
-    std::cout << temp << std::endl;
+    std::vector<std::pair<uint64_t, uint64_t>> metadata;
+    cli.FetchImageMetadata("debian", metadata);
+
+    for (const auto &m : metadata) {
+        std::cout << m.first << " " << m.second << std::endl;
+    }
 
     return 0;
 }

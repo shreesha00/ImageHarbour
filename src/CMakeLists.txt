@@ -12,8 +12,10 @@ target_include_directories(imageharbourcli PRIVATE ${CMAKE_SOURCE_DIR}/RDMA/rele
 
 add_subdirectory(client)
 add_subdirectory(image_server)
+add_subdirectory(memory_server)
 add_subdirectory(rpc)
 add_subdirectory(utils)
+add_subdirectory(test)
 
 add_custom_target(gen_net_config ALL
     DEPENDS ${CMAKE_SOURCE_DIR}/cfg/rdma.prop)

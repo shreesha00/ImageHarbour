@@ -31,10 +31,14 @@ const uint8_t IH_SVR_RPCID_OFFSET = 64;
 /* Image Server Interfaces */
 const uint8_t FETCH_IMAGE = 1;
 
+const size_t MEM_SERVER_PORT = 8011;
 const size_t PAGE_SIZE = 4096;
 const size_t CACHE_GRANULARITY_MIB = 16;
 const size_t MIB = 1024 * 1024;
+const size_t GIB = MIB * 1024;
 const size_t GIB_TO_CHUNK = 1024 / CACHE_GRANULARITY_MIB;
+const size_t MAX_IMAGE_NUM = 100;                    // need to fix this. Hard limit for now
+const size_t SCRATCH_PAD_SIZE = 1024 * 1024 * 1024;  // 1GB
 
 enum Status {
     OK = 0,

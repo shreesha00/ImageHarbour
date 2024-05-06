@@ -10,6 +10,10 @@
 
 namespace imageharbour {
 
+struct ServerContext {
+    int thread_id;
+};
+
 class ERPCTransport : public RPCTransport {
    public:
     static void RunERPCOnce();

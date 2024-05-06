@@ -62,7 +62,8 @@ void ImageHarbourClient::Finalize() {
     }
 }
 
-void ImageHarbourClient::FetchImageMetadata(const std::string& image_name, std::string& temp) {
+void ImageHarbourClient::FetchImageMetadata(const std::string& image_name,
+                                            std::vector<std::pair<uint64_t, uint64_t>>& image_metadata) {
     memcpy(req_.buf_, image_name.c_str(), image_name.size());
 
     rpc_->resize_msg_buffer(&req_, image_name.size());
@@ -74,7 +75,7 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name, std::
     }
 
     if (resp_.get_data_size() > sizeof(Status)) {
-        temp = std::move(std::string(reinterpret_cast<char*>(resp_.buf_), resp_.get_data_size()));
+        DeSerializeChunkInfo(image_metadata, resp_.buf_);
     }
     return;
 }

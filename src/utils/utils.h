@@ -37,4 +37,30 @@ inline std::string Trim(const std::string &str) {
 
 inline bool StrStartWith(const char *str, const char *pre) { return strncmp(str, pre, strlen(pre)) == 0; }
 
+inline size_t SerializeChunkInfo(std::vector<std::pair<uint64_t, uint64_t>> &chunks, uint8_t *buf) {
+    size_t offset = 0;
+    *reinterpret_cast<uint64_t *>(buf) = chunks.size();
+    offset += sizeof(uint64_t);
+    for (auto &chunk : chunks) {
+        *reinterpret_cast<uint64_t *>(buf + offset) = chunk.first;
+        offset += sizeof(uint64_t);
+        *reinterpret_cast<uint64_t *>(buf + offset) = chunk.second;
+        offset += sizeof(uint64_t);
+    }
+    return offset;
+}
+
+inline size_t DeSerializeChunkInfo(std::vector<std::pair<uint64_t, uint64_t>> &chunks, const uint8_t *buf) {
+    size_t offset = 0;
+    uint64_t num_chunks = *reinterpret_cast<const uint64_t *>(buf);
+    offset += sizeof(uint64_t);
+    for (uint64_t i = 0; i < num_chunks; ++i) {
+        uint64_t start = *reinterpret_cast<const uint64_t *>(buf + offset);
+        offset += sizeof(uint64_t);
+        uint64_t end = *reinterpret_cast<const uint64_t *>(buf + offset);
+        offset += sizeof(uint64_t);
+        chunks.emplace_back(start, end);
+    }
+    return offset;
+}
 }  // namespace imageharbour
