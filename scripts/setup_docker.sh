@@ -10,7 +10,7 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
 sudo tee /etc/docker/daemon.json > /dev/null <<EOT
 {
-  "data-root": "/data/docker_root"
+  "data-root": "/mydata/docker_root"
 }
 EOT
 

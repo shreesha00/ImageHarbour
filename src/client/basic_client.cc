@@ -15,8 +15,8 @@ int main(int argc, const char *argv[]) {
     std::vector<std::pair<uint64_t, uint64_t>> metadata;
     char digest[SHA256_DIGEST_SIZE];
     uint64_t size = 0;
-    std::string filename = "/data/debian.tar";
-    cli.FetchImageMetadata("debian", metadata, digest, size);
+    std::string filename = "/mydata/hello-world.tar";
+    cli.FetchImageMetadata("hello-world", metadata, digest, size);
     cli.FetchImage(metadata, size, filename);
 
     std::cout << "chunk info:" << std::endl;
