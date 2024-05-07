@@ -47,4 +47,6 @@ enum Status {
     NOFILE = 3,
 };
 
+const size_t SHA256_DIGEST_SIZE = 64;
+
 }  // namespace imageharbour

@@ -26,6 +26,7 @@ endif()
 message("ERPC dir is ${ERPC_DIR}")
 
 find_package(Threads REQUIRED)
+find_package(OpenSSL REQUIRED)
 
 include_directories(
     ${ERPC_DIR}/src

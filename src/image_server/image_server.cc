@@ -5,7 +5,8 @@
 namespace imageharbour {
 
 std::string ImageServer::folder_path_ = "";
-std::unordered_map<std::string, std::vector<std::pair<uint64_t, uint64_t>>> ImageServer::image_cache_;
+std::unordered_map<std::string, std::tuple<std::vector<std::pair<uint64_t, uint64_t>>, std::string, uint64_t>>
+    ImageServer::image_cache_;
 std::shared_mutex ImageServer::image_cache_mutex_;
 std::vector<uint64_t> ImageServer::per_server_allocated_chunk_idx_;
 std::vector<std::unique_ptr<std::mutex>> ImageServer::per_server_mutex_;
@@ -136,26 +137,44 @@ uint64_t ImageServer::GetFreeChunks(uint64_t node, uint64_t num_chunks) {
     return per_server_allocated_chunk_idx_[node] - num_chunks;
 }
 
-void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, uint64_t>> &chunks, int thread_id) {
+void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, uint64_t>> &chunks, char *digest,
+                      uint64_t &image_size, int thread_id) {
     {
         std::shared_lock<std::shared_mutex> read_lock(image_cache_mutex_);
         if (image_cache_.find(image_name) != image_cache_.end()) {
-            chunks = image_cache_[image_name];
+            chunks = std::get<0>(image_cache_[image_name]);
+            memcpy(digest, std::get<1>(image_cache_[image_name]).c_str(), SHA256_DIGEST_SIZE);
+            image_size = std::get<2>(image_cache_[image_name]);
             return;
         }
     }
     {
         std::unique_lock<std::shared_mutex> write_lock(image_cache_mutex_);
         if (image_cache_.find(image_name) != image_cache_.end()) {
-            chunks = image_cache_[image_name];
+            chunks = std::get<0>(image_cache_[image_name]);
+            memcpy(digest, std::get<1>(image_cache_[image_name]).c_str(), SHA256_DIGEST_SIZE);
+            image_size = std::get<2>(image_cache_[image_name]);
             return;
         }
 
         // fetch and store image locally
         auto fetch_image_cmd = "docker pull " + image_name;
         auto store_image_cmd = "docker save " + image_name + " -o " + folder_path_ + image_name + ".tar";
-        system(fetch_image_cmd.c_str());
-        system(store_image_cmd.c_str());
+        std::ignore = system(fetch_image_cmd.c_str());
+        std::ignore = system(store_image_cmd.c_str());
+
+        // get sha256 digest of image
+        auto sha256_cmd = "docker inspect --format='{{index .RepoDigests 0}}' " + image_name;
+        FILE *fp = popen(sha256_cmd.c_str(), "r");
+        if (fp == nullptr) {
+            LOG(ERROR) << "Can't get sha256 digest";
+            return;
+        }
+        if (fgets(digest, SHA256_DIGEST_SIZE, fp) == nullptr) {
+            LOG(ERROR) << "Can't get sha256 digest";
+            return;
+        }
+        pclose(fp);
 
         // read image file
         int fd = open((folder_path_ + image_name + ".tar").c_str(), O_RDONLY);
@@ -206,8 +225,9 @@ void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, u
             chunk_list.emplace_back(remote_start_chunk + i, memory_server);
         }
 
-        image_cache_[image_name] = std::move(chunk_list);
-        chunks = image_cache_[image_name];
+        image_cache_[image_name] = {std::move(chunk_list), std::string(digest), info.st_size};
+        chunks = std::get<0>(image_cache_[image_name]);
+        image_size = std::get<2>(image_cache_[image_name]);
 
         close(fd);
         delete buffer;
@@ -221,9 +241,12 @@ void ImageServer::FetchImageHandler(erpc::ReqHandle *req_handle, void *context) 
 
     // extract image name string from req
     std::string image_name = std::string(req->buf_, req->buf_ + req->get_data_size());
+
+    char sha256_digest[SHA256_DIGEST_SIZE];
     std::vector<std::pair<uint64_t, uint64_t>> chunks;
-    Get(image_name, chunks, static_cast<ServerContext *>(context)->thread_id);
-    size_t len = SerializeChunkInfo(chunks, resp.buf_);
+    uint64_t image_size = 0;
+    Get(image_name, chunks, sha256_digest, image_size, static_cast<ServerContext *>(context)->thread_id);
+    size_t len = SerializeChunkInfo(chunks, sha256_digest, image_size, resp.buf_);
 
     rpc_->resize_msg_buffer(&resp, len);
     rpc_->enqueue_response(req_handle, &resp);

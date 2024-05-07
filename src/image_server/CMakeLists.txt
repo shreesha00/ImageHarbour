@@ -5,11 +5,13 @@ add_executable(imagesvr
 target_include_directories(imagesvr PRIVATE ${parallel_hashmap_SOURCE_DIR})
 
 target_link_libraries(imagesvr
-    ${ERPC_DIR}/build/liberpc.a
-    ibverbs
-    numa
-    infinity
-    glog::glog
+    PRIVATE ${ERPC_DIR}/build/liberpc.a
+    PRIVATE ibverbs
+    PRIVATE numa
+    PRIVATE infinity
+    PRIVATE glog::glog
+    PRIVATE OpenSSL::SSL
+    PRIVATE OpenSSL::Crypto
 )
     
 target_compile_definitions(imagesvr PRIVATE ERPC_INFINIBAND=true)

@@ -10,7 +10,16 @@ void imageharbour_cli_sm_handler(int, erpc::SmEventType, erpc::SmErrType, void*)
 
 void imageharbour_rpc_cont_func_async(void* _ctx, void* tag) { reinterpret_cast<RPCToken*>(tag)->SetComplete(); }
 
-ImageHarbourClient::ImageHarbourClient() : del_nexus_on_finalize_(true) {}
+ImageHarbourClient::ImageHarbourClient(const Properties& p) : del_nexus_on_finalize_(true) {
+    context_ = new infinity::core::Context();
+    qp_factory_ = new infinity::queues::QueuePairFactory(context_);
+
+    mem_servers_ = SeparateValue(p.GetProperty(PROP_MEM_SERVERS, PROP_MEM_SERVERS_DEFAULT), ',');
+    for (auto& svr : mem_servers_) {
+        qps_.emplace_back(qp_factory_->connectToRemoteHost(svr.c_str(), MEM_SERVER_PORT));
+        LOG(INFO) << "Connected to memory server " << svr;
+    }
+}
 
 void ImageHarbourClient::InitializeConn(const Properties& p, const std::string& svr, void* param) {
     {
@@ -63,7 +72,8 @@ void ImageHarbourClient::Finalize() {
 }
 
 void ImageHarbourClient::FetchImageMetadata(const std::string& image_name,
-                                            std::vector<std::pair<uint64_t, uint64_t>>& image_metadata) {
+                                            std::vector<std::pair<uint64_t, uint64_t>>& image_metadata, char* digest,
+                                            uint64_t& size) {
     memcpy(req_.buf_, image_name.c_str(), image_name.size());
 
     rpc_->resize_msg_buffer(&req_, image_name.size());
@@ -75,9 +85,39 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name,
     }
 
     if (resp_.get_data_size() > sizeof(Status)) {
-        DeSerializeChunkInfo(image_metadata, resp_.buf_);
+        DeSerializeChunkInfo(image_metadata, digest, size, resp_.buf_);
     }
     return;
+}
+
+void ImageHarbourClient::FetchImage(std::vector<std::pair<uint64_t, uint64_t>>& image_metadata, uint64_t& size,
+                                    std::string& filename) {
+    infinity::memory::Buffer* buf = new infinity::memory::Buffer(context_, CACHE_GRANULARITY_MIB * MIB);
+    uint64_t remaining_size = size;
+    infinity::requests::RequestToken req_token(context_);
+
+    // create file using open
+    int fd = open(filename.c_str(), O_CREAT | O_WRONLY, 0777);
+    if (fd < 0) {
+        LOG(ERROR) << "Failed to open file " << filename;
+    }
+
+    uint64_t read_size = 0;
+    for (auto& p : image_metadata) {
+        read_size = std::min(remaining_size, CACHE_GRANULARITY_MIB * MIB);
+        qps_[p.second]->read(buf, 0, static_cast<infinity::memory::RegionToken*>(qps_[p.second]->getUserData()),
+                             p.first * CACHE_GRANULARITY_MIB * MIB, read_size, &req_token);
+        req_token.waitUntilCompleted();
+        if (write(fd, buf->getData(), read_size) != read_size) {
+            LOG(ERROR) << "Failed to write to file " << filename;
+            return;
+        }
+
+        remaining_size -= read_size;
+    }
+
+    delete buf;
+    close(fd);
 }
 
 }  // namespace imageharbour

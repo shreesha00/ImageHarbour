@@ -10,6 +10,7 @@
 #include <infinity/queues/QueuePairFactory.h>
 #include <infinity/requests/RequestToken.h>
 #include <parallel_hashmap/phmap.h>
+#include <stdlib.h>
 
 #include <chrono>
 #include <condition_variable>
@@ -40,14 +41,17 @@ class ImageServer : public ERPCTransport {
    protected:
     static void FetchImageHandler(erpc::ReqHandle *req_handle, void *context);  // called from middle man
 
-    static void Get(std::string &image_name, std::vector<std::pair<uint64_t, uint64_t>> &chunks, int thread_id);
+    static void Get(std::string &image_name, std::vector<std::pair<uint64_t, uint64_t>> &chunks, char *digest,
+                    uint64_t &size, int thread_id);
     static void fetch_server_func(const Properties &p, int thread_id);
 
     static uint64_t GetFreeChunks(uint64_t node, uint64_t chunk_num);
 
    protected:
     std::vector<std::thread> server_threads_;
-    static std::unordered_map<std::string, std::vector<std::pair<uint64_t, uint64_t>>> image_cache_;
+    static std::unordered_map<std::string,
+                              std::tuple<std::vector<std::pair<uint64_t, uint64_t>>, std::string, uint64_t>>
+        image_cache_;
     static std::shared_mutex image_cache_mutex_;
     static std::vector<uint64_t> per_server_allocated_chunk_idx_;
     static std::vector<std::unique_ptr<std::mutex>> per_server_mutex_;

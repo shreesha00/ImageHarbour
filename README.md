@@ -4,7 +4,7 @@
 
 ### Pre-requisites
 ```
-sudo apt-get install libnuma-dev zlib1g-dev libtbb-dev -y
+sudo apt-get install libnuma-dev zlib1g-dev libtbb-dev libssl-dev -y
 ```
 ### eRPC
 The [eRPC](https://github.com/erpc-io/eRPC.git) library must be installed in the parent directory of ImageHarbour as follows
