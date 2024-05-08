@@ -1,14 +1,17 @@
 #!/bin/bash
 
-load_buffer_cache() {
-    cat $1 > /dev/null
+source commons.sh
+
+reset_tmpfs() {
+    if [ -d "$TMPFS_DIR" ]; then
+        sudo umount $TMPFS_DIR
+        sudo rm -rf $TMPFS_DIR
+    fi
+
+    sudo mkdir -p $TMPFS_DIR
+    sudo mount -t tmpfs -o size=$TMPFS_SIZE,mode=1777 tmpfs $TMPFS_DIR    
 }
 
-drop_buffer_cache() {
-    echo 3 > /proc/sys/vm/drop_caches
-}
-
-drop_disk() {
-    drop_buffer_cache
+drop_disk_file() {
     sudo rm $1
 }

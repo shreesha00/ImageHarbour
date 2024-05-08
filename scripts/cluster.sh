@@ -1,16 +1,9 @@
 #!/bin/bash
 
-set -e
+source commons.sh
 
 image_svr=("1")
 mem_svr=("2")
-
-PASSLESS_ENTRY="/users/JiyuHu23/.ssh/dassl_rsa"
-USER="JiyuHu23"
-
-PROJ_DIR="/proj/rasl-PG0/$USER/imageHarbour"
-LOG_DIR="/mydata/imageharbor"
-LOCAL_LOG_DIR="$PROJ_DIR/logs/"
 
 rm -rf $LOCAL_LOG_DIR
 mkdir -p $LOCAL_LOG_DIR
@@ -77,7 +70,7 @@ tear_down() {
     done
 }
 
-fresh_cluster() {
+reset_cluster() {
     tear_down
     reset_logs
     start_memsvr
