@@ -5,6 +5,16 @@ source cluster.sh
 
 clients=("0")
 
+time_micro() {
+    start=$(date +%s%N)
+    "$@"
+    end=$(date +%s%N)
+
+    elapsed=$((($end - $start) / 1000))
+
+    echo "Elapsed time: $elapsed microseconds"
+}
+
 reset_client_logs() {
     for ((i = 0; i < ${#mem_svr[@]}; i++)); do
         node="${clients[i]}"
@@ -19,6 +29,14 @@ run_workload() {
         ssh -i ${PASSLESS_ENTRY} $USER@node$node \
             "sudo $PROJ_DIR/build/src/client/basic_cli -P $PROJ_DIR/cfg/properties.prop -P $PROJ_DIR/cfg/rdma.prop > \
              $LOG_DIR/client_$node_$i.log 2>&1 &"
+    done
+}
+
+run_docker() {
+    for ((i = 0; i < ${#clients[@]}; i++)); do
+        node="${clients[i]}"
+        ssh -i ${PASSLESS_ENTRY} $USER@node$node \
+            "docker load < /mydata/hello-world.tar > $LOG_DIR/client_$node_$i.log 2>&1 &"
     done
 }
 
