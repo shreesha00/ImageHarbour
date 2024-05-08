@@ -37,6 +37,6 @@ cmake --build build -j
     ```
 * Send commands to the daemon. Set a decently large timeout for large images (10 secs)
     ```
-    echo <image_name> <image_path_name>" | sudo socat -t <timeout_secs> - UNIX-CONNECT:/imageharbour/daemon | cat
+    echo -n "<image_name> <image_local_path>" | sudo socat -t 10 - UNIX-CONNECT:/imageharbour/daemon | cat
     ```
 
