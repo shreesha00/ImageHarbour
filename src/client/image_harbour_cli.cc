@@ -94,7 +94,6 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name) {
         DeSerializeChunkInfo(chunk_info, digest, size, resp_.buf_);
         image_metadata_cache_[image_name] = std::make_tuple(std::move(chunk_info), std::string(digest), size);
     }
-    LOG(INFO) << "here";
     return;
 }
 
