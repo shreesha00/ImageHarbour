@@ -23,10 +23,10 @@ class ImageHarbourClient : public ERPCTransport {
     }
     void Finalize() override;
 
-    void FetchImageMetadata(const std::string &image_name, std::vector<std::pair<uint64_t, uint64_t>> &image_metadata,
-                            char *digest, uint64_t &size);
+    void FetchImage(const std::string &image_name, const std::string &filename);
 
-    void FetchImage(std::vector<std::pair<uint64_t, uint64_t>> &image_metadata, uint64_t &size, std::string &filename);
+   private:
+    void FetchImageMetadata(const std::string &image_name);
 
    protected:
     int session_num_;
@@ -36,6 +36,8 @@ class ImageHarbourClient : public ERPCTransport {
     infinity::queues::QueuePairFactory *qp_factory_;
     std::vector<std::string> mem_servers_;
     std::vector<infinity::queues::QueuePair *> qps_;
+    std::unordered_map<std::string, std::tuple<std::vector<std::pair<uint64_t, uint64_t>>, std::string, uint64_t>>
+        image_metadata_cache_;
 
     bool del_nexus_on_finalize_;
 

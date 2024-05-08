@@ -71,9 +71,11 @@ void ImageHarbourClient::Finalize() {
     }
 }
 
-void ImageHarbourClient::FetchImageMetadata(const std::string& image_name,
-                                            std::vector<std::pair<uint64_t, uint64_t>>& image_metadata, char* digest,
-                                            uint64_t& size) {
+void ImageHarbourClient::FetchImageMetadata(const std::string& image_name) {
+    if (image_metadata_cache_.find(image_name) != image_metadata_cache_.end()) {
+        return;
+    }
+
     memcpy(req_.buf_, image_name.c_str(), image_name.size());
 
     rpc_->resize_msg_buffer(&req_, image_name.size());
@@ -85,15 +87,22 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name,
     }
 
     if (resp_.get_data_size() > sizeof(Status)) {
-        DeSerializeChunkInfo(image_metadata, digest, size, resp_.buf_);
+        std::vector<std::pair<uint64_t, uint64_t>> chunk_info;
+        char digest[SHA256_DIGEST_SIZE];
+        uint64_t size;
+
+        DeSerializeChunkInfo(chunk_info, digest, size, resp_.buf_);
+        image_metadata_cache_[image_name] = std::make_tuple(std::move(chunk_info), std::string(digest), size);
     }
     return;
 }
 
-void ImageHarbourClient::FetchImage(std::vector<std::pair<uint64_t, uint64_t>>& image_metadata, uint64_t& size,
-                                    std::string& filename) {
+void ImageHarbourClient::FetchImage(const std::string& image_name, const std::string& filename) {
+    // get metadata if needed
+    FetchImageMetadata(image_name);
+
     infinity::memory::Buffer* buf = new infinity::memory::Buffer(context_, CACHE_GRANULARITY_MIB * MIB);
-    uint64_t remaining_size = size;
+    uint64_t remaining_size = std::get<2>(image_metadata_cache_[image_name]);
     infinity::requests::RequestToken req_token(context_);
 
     // create file using open
@@ -103,7 +112,7 @@ void ImageHarbourClient::FetchImage(std::vector<std::pair<uint64_t, uint64_t>>& 
     }
 
     uint64_t read_size = 0;
-    for (auto& p : image_metadata) {
+    for (auto& p : std::get<0>(image_metadata_cache_[image_name])) {
         read_size = std::min(remaining_size, CACHE_GRANULARITY_MIB * MIB);
         qps_[p.second]->read(buf, 0, static_cast<infinity::memory::RegionToken*>(qps_[p.second]->getUserData()),
                              p.first * CACHE_GRANULARITY_MIB * MIB, read_size, &req_token);
