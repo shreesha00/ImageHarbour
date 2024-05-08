@@ -78,6 +78,7 @@ tear_down() {
 }
 
 fresh_cluster() {
+    tear_down
     reset_logs
     start_memsvr
     start_imagesvr

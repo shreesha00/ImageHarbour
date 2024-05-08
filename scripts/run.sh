@@ -23,6 +23,22 @@ reset_client_logs() {
     done
 }
 
+run_daemon() {
+    for ((i = 0; i < ${#clients[@]}; i++)); do
+        node="${clients[i]}"
+        ssh -i ${PASSLESS_ENTRY} $USER@node$node \
+            "sudo $PROJ_DIR/build/src/client/client_daemon -P $PROJ_DIR/cfg/properties.prop -P $PROJ_DIR/cfg/rdma.prop \
+            > $LOG_DIR/daemon_$node.log 2>&1 &"
+    done
+}
+
+tear_down_daemon() {
+    for ((i = 0; i < ${#clients[@]}; i++)); do
+        node="${clients[i]}"
+        ssh -i ${PASSLESS_ENTRY} $USER@node$node "sudo pkill client_daemon"
+    done
+}
+
 run_workload() {
     for ((i = 0; i < ${#clients[@]}; i++)); do
         node="${clients[i]}"
@@ -44,13 +60,16 @@ collect_client_logs() {
     for ((i = 0; i < ${#clients[@]}; i++)); do
         node="${clients[i]}"
         scp -i ${PASSLESS_ENTRY} $USER@node$node:$LOG_DIR/client_$node_$i.log $LOCAL_LOG_DIR
+        scp -i ${PASSLESS_ENTRY} $USER@node$node:$LOG_DIR/daemon_$node.log $LOCAL_LOG_DIR
     done
     reset_client_logs 
 }
 
+tear_down_daemon
 reset_client_logs
 fresh_cluster
-run_workload
-wait
-after_work
-collect_client_logs
+# run_workload
+run_daemon
+# wait
+# after_work
+# collect_client_logs
