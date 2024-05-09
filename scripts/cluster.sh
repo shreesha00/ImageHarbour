@@ -77,7 +77,7 @@ reset_cluster() {
     start_imagesvr
 }
 
-after_work() {
+cluster_after_work() {
     collect_logs
     tear_down
 }

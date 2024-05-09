@@ -19,3 +19,7 @@ time_micro() {
 
     echo "Elapsed time: $elapsed microseconds"
 }
+
+reset_tmpfs() {
+    sudo rm -rf $TMPFS_DIR/*
+}
