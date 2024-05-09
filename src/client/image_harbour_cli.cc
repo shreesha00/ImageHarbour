@@ -19,6 +19,18 @@ ImageHarbourClient::ImageHarbourClient(const Properties& p) : del_nexus_on_final
         qps_.emplace_back(qp_factory_->connectToRemoteHost(svr.c_str(), MEM_SERVER_PORT));
         LOG(INFO) << "Connected to memory server " << svr;
     }
+
+    scratch_pad_ = new char[5 * SCRATCH_PAD_SIZE];
+    scratch_pad_offset_ = 0;
+}
+
+ImageHarbourClient::~ImageHarbourClient() {
+    delete[] scratch_pad_;
+    for (auto& qp : qps_) {
+        delete qp;
+    }
+    delete qp_factory_;
+    delete context_;
 }
 
 void ImageHarbourClient::InitializeConn(const Properties& p, const std::string& svr, void* param) {
@@ -97,7 +109,20 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name) {
     return;
 }
 
-void ImageHarbourClient::FetchImage(const std::string& image_name, const std::string& filename) {
+void ImageHarbourClient::StoreImage(const std::string& image_path) {
+    // create file using open
+    int fd = open(image_path.c_str(), O_CREAT | O_WRONLY, 0777);
+    if (fd < 0) {
+        LOG(ERROR) << "Failed to open file " << image_path;
+    }
+
+    if (scratch_pad_offset_ != write(fd, scratch_pad_, scratch_pad_offset_)) {
+        LOG(ERROR) << "Failed to write to file " << image_path;
+    }
+    close(fd);
+}
+
+void ImageHarbourClient::FetchImage(const std::string& image_name) {
     // get metadata if needed
     FetchImageMetadata(image_name);
 
@@ -105,28 +130,20 @@ void ImageHarbourClient::FetchImage(const std::string& image_name, const std::st
     uint64_t remaining_size = std::get<2>(image_metadata_cache_[image_name]);
     infinity::requests::RequestToken req_token(context_);
 
-    // create file using open
-    int fd = open(filename.c_str(), O_CREAT | O_WRONLY, 0777);
-    if (fd < 0) {
-        LOG(ERROR) << "Failed to open file " << filename;
-    }
-
     uint64_t read_size = 0;
+    scratch_pad_offset_ = 0;
     for (auto& p : std::get<0>(image_metadata_cache_[image_name])) {
         read_size = std::min(remaining_size, CACHE_GRANULARITY_MIB * MIB);
         qps_[p.second]->read(buf, 0, static_cast<infinity::memory::RegionToken*>(qps_[p.second]->getUserData()),
                              p.first * CACHE_GRANULARITY_MIB * MIB, read_size, &req_token);
         req_token.waitUntilCompleted();
-        if (write(fd, buf->getData(), read_size) != read_size) {
-            LOG(ERROR) << "Failed to write to file " << filename;
-            return;
-        }
+        memcpy(scratch_pad_ + scratch_pad_offset_, buf->getData(), read_size);
 
+        scratch_pad_offset_ += read_size;
         remaining_size -= read_size;
     }
 
     delete buf;
-    close(fd);
 }
 
 }  // namespace imageharbour

@@ -15,6 +15,7 @@ namespace imageharbour {
 class ImageHarbourClient : public ERPCTransport {
    public:
     ImageHarbourClient(const Properties &p);
+    ~ImageHarbourClient();
 
     void InitializeConn(const Properties &p, const std::string &svr, void *param) override;
     void Initialize(const Properties &p) override {
@@ -23,7 +24,8 @@ class ImageHarbourClient : public ERPCTransport {
     }
     void Finalize() override;
 
-    void FetchImage(const std::string &image_name, const std::string &filename);
+    void FetchImage(const std::string &image_name);
+    void StoreImage(const std::string &image_path);
 
    private:
     void FetchImageMetadata(const std::string &image_name);
@@ -40,6 +42,9 @@ class ImageHarbourClient : public ERPCTransport {
         image_metadata_cache_;
 
     bool del_nexus_on_finalize_;
+
+    char *scratch_pad_;
+    uint64_t scratch_pad_offset_;
 
     erpc::MsgBuffer req_;
     erpc::MsgBuffer resp_;

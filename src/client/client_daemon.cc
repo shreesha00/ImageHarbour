@@ -73,8 +73,15 @@ int main(int argc, const char *argv[]) {
         std::string local_path = received_data.substr(space_pos + 1);
 
         auto start = std::chrono::high_resolution_clock::now();
-        cli.FetchImage(image_name, local_path);
+        cli.FetchImage(image_name);
         LOG(INFO) << "[ImageHarbour]: time to fetch image " << image_name << " in us: "
+                  << std::chrono::duration_cast<std::chrono::microseconds>(std::chrono::high_resolution_clock::now() -
+                                                                           start)
+                         .count();
+
+        start = std::chrono::high_resolution_clock::now();
+        cli.StoreImage(local_path);
+        LOG(INFO) << "[ImageHarbour]: time to store image " << image_name << " in us: "
                   << std::chrono::duration_cast<std::chrono::microseconds>(std::chrono::high_resolution_clock::now() -
                                                                            start)
                          .count();
