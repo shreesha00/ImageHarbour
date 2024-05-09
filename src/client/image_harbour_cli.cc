@@ -22,6 +22,8 @@ ImageHarbourClient::ImageHarbourClient(const Properties& p) : del_nexus_on_final
 
     scratch_pad_ = new char[5 * SCRATCH_PAD_SIZE];
     scratch_pad_offset_ = 0;
+
+    buf_ = new infinity::memory::Buffer(context_, CACHE_GRANULARITY_MIB * MIB);
 }
 
 ImageHarbourClient::~ImageHarbourClient() {
@@ -29,6 +31,7 @@ ImageHarbourClient::~ImageHarbourClient() {
     for (auto& qp : qps_) {
         delete qp;
     }
+    delete buf_;
     delete qp_factory_;
     delete context_;
 }
@@ -126,7 +129,6 @@ void ImageHarbourClient::FetchImage(const std::string& image_name) {
     // get metadata if needed
     FetchImageMetadata(image_name);
 
-    infinity::memory::Buffer* buf = new infinity::memory::Buffer(context_, CACHE_GRANULARITY_MIB * MIB);
     uint64_t remaining_size = std::get<2>(image_metadata_cache_[image_name]);
     infinity::requests::RequestToken req_token(context_);
 
@@ -134,16 +136,14 @@ void ImageHarbourClient::FetchImage(const std::string& image_name) {
     scratch_pad_offset_ = 0;
     for (auto& p : std::get<0>(image_metadata_cache_[image_name])) {
         read_size = std::min(remaining_size, CACHE_GRANULARITY_MIB * MIB);
-        qps_[p.second]->read(buf, 0, static_cast<infinity::memory::RegionToken*>(qps_[p.second]->getUserData()),
+        qps_[p.second]->read(buf_, 0, static_cast<infinity::memory::RegionToken*>(qps_[p.second]->getUserData()),
                              p.first * CACHE_GRANULARITY_MIB * MIB, read_size, &req_token);
         req_token.waitUntilCompleted();
-        memcpy(scratch_pad_ + scratch_pad_offset_, buf->getData(), read_size);
+        memcpy(scratch_pad_ + scratch_pad_offset_, buf_->getData(), read_size);
 
         scratch_pad_offset_ += read_size;
         remaining_size -= read_size;
     }
-
-    delete buf;
 }
 
 }  // namespace imageharbour

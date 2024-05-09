@@ -52,16 +52,9 @@ int main(int argc, const char* argv[]) {
         std::ignore = system(prune_cmd.c_str());
     }
 
-    std::cout << "fetch time mean us: " << std::endl;
-    hdr_mean(fetch_time_hist);
-
-    std::cout << "store time mean us: " << std::endl;
-    hdr_mean(store_time_hist);
-
-    std::cout << "load time mean us: " << std::endl;
-    hdr_mean(load_time_hist);
-
-    std::cout << "total time mean us: " << std::endl;
-    hdr_mean(total_time_hist);
+    std::cout << "fetch time mean us: " << hdr_mean(fetch_time_hist) << std::endl;
+    std::cout << "store time mean us: " << hdr_mean(store_time_hist) << std::endl;
+    std::cout << "load time mean us: " << hdr_mean(load_time_hist) << std::endl;
+    std::cout << "total time mean us: " << hdr_mean(total_time_hist) << std::endl;
     return 0;
 }

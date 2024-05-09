@@ -48,7 +48,7 @@ run_docker() {
     for ((i = 0; i < ${#clients[@]}; i++)); do
         node="${clients[i]}"
         ssh -i ${PASSLESS_ENTRY} $USER@node$node \
-            "docker load < /mydata/hello-world.tar > $LOG_DIR/client_${node}_$i.log 2>&1 &"
+            "docker load < /data/hello-world.tar > $LOG_DIR/client_${node}_$i.log 2>&1 &"
     done
 }
 
@@ -70,20 +70,21 @@ docker_rmi_all() {
 }
 
 docker_rmi_all
-tear_down_daemon
+# tear_down_daemon
 reset_client_logs
 reset_cluster
-run_daemon
+# run_daemon
+reset_tmpfs
 
-for ((j = 0; j < 5; j++)); do
-    docker_rmi_all
-    reset_tmpfs
-    run_workload_harbor $j
-    # run_workload_registry
-done
+# for ((j = 0; j < 5; j++)); do
+#     docker_rmi_all
+#     reset_tmpfs
+#     # run_workload_registry
+# done
+run_workload_harbor 0
 
 wait
-tear_down_daemon
+# tear_down_daemon
 cluster_after_work
 collect_client_logs
 reset_tmpfs

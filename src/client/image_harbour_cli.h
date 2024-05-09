@@ -46,6 +46,8 @@ class ImageHarbourClient : public ERPCTransport {
     char *scratch_pad_;
     uint64_t scratch_pad_offset_;
 
+    infinity::memory::Buffer *buf_;
+
     erpc::MsgBuffer req_;
     erpc::MsgBuffer resp_;
 };

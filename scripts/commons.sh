@@ -1,10 +1,10 @@
 #!/bin/bash
 
-PASSLESS_ENTRY="/users/JiyuHu23/.ssh/dassl_rsa"
-USER="JiyuHu23"
+PASSLESS_ENTRY="/users/sgbhat3/.ssh/id_rsa"
+USER="sgbhat3"
 
-PROJ_DIR="/proj/rasl-PG0/$USER/imageHarbour"
-LOG_DIR="/mydata/imageharbor"
+PROJ_DIR="/proj/cs523-uiuc-sp24-PG0/$USER/ImageHarbour"
+LOG_DIR="/data/imageharbor"
 LOCAL_LOG_DIR="$PROJ_DIR/logs/"
 
 TMPFS_DIR="/tmp_harbor"
