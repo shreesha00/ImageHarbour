@@ -2,6 +2,7 @@
 #include <sys/un.h>
 #include <unistd.h>
 
+#include <chrono>
 #include <iostream>
 
 #include "../rpc/common.h"
@@ -71,7 +72,19 @@ int main(int argc, const char *argv[]) {
         std::string image_name = received_data.substr(0, space_pos);
         std::string local_path = received_data.substr(space_pos + 1);
 
-        cli.FetchImage(image_name, local_path);
+        auto start = std::chrono::high_resolution_clock::now();
+        cli.FetchImage(image_name);
+        LOG(INFO) << "[ImageHarbour]: time to fetch image " << image_name << " in us: "
+                  << std::chrono::duration_cast<std::chrono::microseconds>(std::chrono::high_resolution_clock::now() -
+                                                                           start)
+                         .count();
+
+        start = std::chrono::high_resolution_clock::now();
+        cli.StoreImage(local_path);
+        LOG(INFO) << "[ImageHarbour]: time to store image " << image_name << " in us: "
+                  << std::chrono::duration_cast<std::chrono::microseconds>(std::chrono::high_resolution_clock::now() -
+                                                                           start)
+                         .count();
 
         LOG(INFO) << "[ImageHarbour]: image " << image_name << " fetched and stored to " << local_path;
 
