@@ -6,6 +6,7 @@ add_executable(client_daemon client_daemon.cc)
 
 target_link_libraries(basic_cli
     PRIVATE imageharbourcli
+    PRIVATE hdr_histogram 
 )
 
 target_link_libraries(client_daemon
