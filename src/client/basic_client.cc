@@ -27,37 +27,35 @@ int main(int argc, const char* argv[]) {
 
     std::string load_cmd = "docker load -i " + filepath;
     std::string prune_cmd = "docker system prune -a -f";
+
+    cli.FetchImage(filename);
+    cli.StoreImage(filepath);
+
     auto start = std::chrono::high_resolution_clock::now();
     uint64_t iter = 0;
     while (std::chrono::duration_cast<std::chrono::seconds>(std::chrono::high_resolution_clock::now() - start).count() <
            time_secs) {
         std::ignore = system("rm -rf /tmp_harbor/*");
+        std::ignore = system(prune_cmd.c_str());
         auto start_fetch = std::chrono::high_resolution_clock::now();
         cli.FetchImage(filename);
-        if (iter != 0) {
-            hdr_record_value(fetch_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
-                                                  std::chrono::high_resolution_clock::now() - start_fetch)
-                                                  .count());
-        }
+        hdr_record_value(fetch_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
+                                              std::chrono::high_resolution_clock::now() - start_fetch)
+                                              .count());
 
         auto start_store = std::chrono::high_resolution_clock::now();
         cli.StoreImage(filepath);
-        if (iter != 0) {
-            hdr_record_value(store_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
-                                                  std::chrono::high_resolution_clock::now() - start_store)
-                                                  .count());
-        }
+        hdr_record_value(store_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
+                                              std::chrono::high_resolution_clock::now() - start_store)
+                                              .count());
         auto start_load = std::chrono::high_resolution_clock::now();
         std::ignore = system(load_cmd.c_str());
         hdr_record_value(load_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
                                              std::chrono::high_resolution_clock::now() - start_load)
                                              .count());
-        if (iter != 0) {
-            hdr_record_value(total_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
-                                                  std::chrono::high_resolution_clock::now() - start_fetch)
-                                                  .count());
-        }
-        std::ignore = system(prune_cmd.c_str());
+        hdr_record_value(total_time_hist, std::chrono::duration_cast<std::chrono::microseconds>(
+                                              std::chrono::high_resolution_clock::now() - start_fetch)
+                                              .count());
         iter++;
     }
     std::cout << "ran for " << iter << std::endl;

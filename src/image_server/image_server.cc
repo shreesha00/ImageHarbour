@@ -34,7 +34,7 @@ void ImageServer::Initialize(const Properties &p) {
         per_server_mutex_.emplace_back(std::make_unique<std::mutex>());
         per_server_allocated_chunk_idx_.emplace_back(0);
     }
-    scratch_pad_ = new char[SCRATCH_PAD_SIZE];
+    scratch_pad_ = new char[10 * SCRATCH_PAD_SIZE];
 
     struct stat info;
     if (::stat(folder_path_.c_str(), &info) != 0 || !S_ISDIR(info.st_mode)) {
@@ -192,34 +192,43 @@ void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, u
         uint64_t memory_server = hasher(image_name) % mem_servers_.size();
         LOG(INFO) << "thread_id: " << thread_id << ", storing image on node: " << memory_server;
 
+        uint64_t remaining_size = info.st_size;
+        uint64_t local_offset = 0;
+        while (remaining_size > 0) {
+            uint64_t read_size = std::min(SCRATCH_PAD_SIZE, remaining_size);
+            if (read(fd, scratch_pad_ + local_offset, read_size) != read_size) {
+                LOG(ERROR) << "Reading less bytes than expected";
+                close(fd);
+                return;
+            }
+            remaining_size -= read_size;
+            local_offset += read_size;
+        }
+
         // store individual chunks
         // TODO: currently assumes all chunks can come from a single node, might not be true.
         uint64_t chunk_size_bytes = CACHE_GRANULARITY_MIB * MIB;
         uint64_t num_chunks = (info.st_size + chunk_size_bytes - 1) / chunk_size_bytes;
         uint64_t remote_start_chunk = GetFreeChunks(memory_server, num_chunks);
 
-        uint64_t curr_chunk = 0;
         infinity::memory::Buffer *buffer = new infinity::memory::Buffer(context_, chunk_size_bytes);
         infinity::requests::RequestToken request_token(context_);
-        while (curr_chunk < num_chunks) {
-            uint64_t read_size = std::min(SCRATCH_PAD_SIZE, info.st_size - curr_chunk * chunk_size_bytes);
-            if (pread(fd, scratch_pad_, read_size, curr_chunk * chunk_size_bytes) != read_size) {
-                LOG(ERROR) << "Reading less bytes than expected";
-                close(fd);
-                return;
-            }
-            for (uint64_t i = 0; i < (read_size + chunk_size_bytes - 1) / chunk_size_bytes; i++) {
-                uint64_t rem_size = std::min(chunk_size_bytes, read_size - i * chunk_size_bytes);
-                memcpy(buffer->getData(), scratch_pad_ + i * chunk_size_bytes, rem_size);
-                per_thread_qps_[thread_id][memory_server]->write(
-                    buffer, 0,
-                    static_cast<infinity::memory::RegionToken *>(
-                        per_thread_qps_[thread_id][memory_server]->getUserData()),
-                    (remote_start_chunk + curr_chunk) * chunk_size_bytes, rem_size, &request_token);
 
-                request_token.waitUntilCompleted();
-                curr_chunk++;
-            }
+        uint64_t curr_chunk = 0;
+        remaining_size = info.st_size;
+        local_offset = 0;
+        while (remaining_size > 0) {
+            uint64_t write_size = std::min(chunk_size_bytes, remaining_size);
+            memcpy(buffer->getData(), scratch_pad_ + local_offset, write_size);
+            per_thread_qps_[thread_id][memory_server]->write(
+                buffer, 0,
+                static_cast<infinity::memory::RegionToken *>(per_thread_qps_[thread_id][memory_server]->getUserData()),
+                (remote_start_chunk + curr_chunk) * chunk_size_bytes, write_size, &request_token);
+
+            request_token.waitUntilCompleted();
+            curr_chunk++;
+            remaining_size -= write_size;
+            local_offset += write_size;
         }
 
         std::vector<std::pair<uint64_t, uint64_t>> chunk_list;
