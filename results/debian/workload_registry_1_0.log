@@ -1,0 +1,905 @@
+Total reclaimed space: 0B
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+Deleted Images:
+untagged: debian:latest
+untagged: debian@sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from library/debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:1aadfee8d292f64b045adb830f8a58bfacc15789ae5f489a0fedcd517a862cb9
+Status: Downloaded newer image for debian:latest
+docker.io/library/debian:latest
+       Value   Percentile   TotalCount 1/(1-Percentile)
+
+ 2818047.000     0.000000            1         1.00
+ 2867199.000     0.100000            6         1.11
+ 2924543.000     0.200000           11         1.25
+ 3143679.000     0.300000           17         1.43
+ 3188735.000     0.400000           23         1.67
+ 3198975.000     0.500000           28         2.00
+ 3209215.000     0.550000           31         2.22
+ 3213311.000     0.600000           33         2.50
+ 3217407.000     0.650000           36         2.86
+ 3241983.000     0.700000           39         3.33
+ 3264511.000     0.750000           42         4.00
+ 3276799.000     0.775000           43         4.44
+ 3280895.000     0.800000           44         5.00
+ 3295231.000     0.825000           46         5.71
+ 3297279.000     0.850000           47         6.67
+ 3332095.000     0.875000           49         8.00
+ 3332095.000     0.887500           49         8.89
+ 3373055.000     0.900000           50        10.00
+ 3393535.000     0.912500           51        11.43
+ 3393535.000     0.925000           51        13.33
+ 3465215.000     0.937500           52        16.00
+ 3465215.000     0.943750           52        17.78
+ 3528703.000     0.950000           53        20.00
+ 3528703.000     0.956250           53        22.86
+ 3528703.000     0.962500           53        26.67
+ 3633151.000     0.968750           54        32.00
+ 3633151.000     0.971875           54        35.56
+ 3633151.000     0.975000           54        40.00
+ 3633151.000     0.978125           54        45.71
+ 3633151.000     0.981250           54        53.33
+ 3801087.000     0.984375           55        64.00
+ 3801087.000     1.000000           55          inf
+#[Mean    =  3167976.727, StdDeviation   =   201694.915]
+#[Max     =  3801087.000, Total count    =           55]
+#[Buckets =           22, SubBuckets     =         2048]

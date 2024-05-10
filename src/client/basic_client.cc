@@ -46,13 +46,13 @@ int main(int argc, const char* argv[]) {
         std::ignore = system(prune_cmd.c_str());
     }
 
-    LOG(INFO) << "fetch time histogram:\n";
+    LOG(INFO) << "fetch time histogram:" << std::endl;
     hdr_percentiles_print(fetch_time_hist, stdout, 5, 1.0, CLASSIC);
 
-    LOG(INFO) << "load time histogram:\n";
+    LOG(INFO) << "load time histogram:" << std::endl;
     hdr_percentiles_print(load_time_hist, stdout, 5, 1.0, CLASSIC);
 
-    LOG(INFO) << "total time histogram:\n";
+    LOG(INFO) << "total time histogram:" << std::endl;
     hdr_percentiles_print(total_time_hist, stdout, 5, 1.0, CLASSIC);
     return 0;
 }

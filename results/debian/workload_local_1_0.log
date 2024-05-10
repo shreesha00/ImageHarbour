@@ -1,0 +1,1898 @@
+Total reclaimed space: 0B
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+Deleted Images:
+untagged: node5:5000/debian:latest
+untagged: node5:5000/debian@sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+deleted: sha256:d2a2c1ada45a61ee343effe4bda1f987c453840593c9622bd08919f06b508d0d
+deleted: sha256:072686bcd3db19834cd1e0b1e18acf50b7876043f9c38d5308e5e579cbefa6be
+
+Total reclaimed space: 116.6MB
+Using default tag: latest
+latest: Pulling from debian
+1468e7ff95fc: Pulling fs layer
+1468e7ff95fc: Verifying Checksum
+1468e7ff95fc: Download complete
+1468e7ff95fc: Pull complete
+Digest: sha256:40f71cd223a60afc1bac2adf1b204bfabef29cdef725e74993f86098ff87f92f
+Status: Downloaded newer image for node5:5000/debian:latest
+node5:5000/debian:latest
+       Value   Percentile   TotalCount 1/(1-Percentile)
+
+ 1364991.000     0.000000            1         1.00
+ 1376255.000     0.100000           12         1.11
+ 1380351.000     0.200000           26         1.25
+ 1383423.000     0.300000           43         1.43
+ 1384447.000     0.400000           47         1.67
+ 1388543.000     0.500000           63         2.00
+ 1389567.000     0.550000           66         2.22
+ 1391615.000     0.600000           74         2.50
+ 1392639.000     0.650000           79         2.86
+ 1393663.000     0.700000           84         3.33
+ 1394687.000     0.750000           91         4.00
+ 1394687.000     0.775000           91         4.44
+ 1395711.000     0.800000           95         5.00
+ 1396735.000     0.825000           97         5.71
+ 1398783.000     0.850000          104         6.67
+ 1398783.000     0.875000          104         8.00
+ 1398783.000     0.887500          104         8.89
+ 1400831.000     0.900000          106        10.00
+ 1401855.000     0.912500          108        11.43
+ 1402879.000     0.925000          110        13.33
+ 1402879.000     0.937500          110        16.00
+ 1404927.000     0.943750          112        17.78
+ 1404927.000     0.950000          112        20.00
+ 1404927.000     0.956250          112        22.86
+ 1405951.000     0.962500          113        26.67
+ 1406975.000     0.968750          115        32.00
+ 1406975.000     0.971875          115        35.56
+ 1406975.000     0.975000          115        40.00
+ 1406975.000     0.978125          115        45.71
+ 1406975.000     0.981250          115        53.33
+ 1407999.000     0.984375          116        64.00
+ 1407999.000     0.985938          116        71.11
+ 1407999.000     0.987500          116        80.00
+ 1407999.000     0.989062          116        91.43
+ 1407999.000     0.990625          116       106.67
+ 1411071.000     0.992188          117       128.00
+ 1411071.000     1.000000          117          inf
+#[Mean    =  1387751.932, StdDeviation   =     9396.209]
+#[Max     =  1411071.000, Total count    =          117]
+#[Buckets =           22, SubBuckets     =         2048]

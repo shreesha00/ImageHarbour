@@ -1,0 +1,551 @@
+Total reclaimed space: 0B
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+Deleted Images:
+untagged: alpine:latest
+untagged: alpine@sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+deleted: sha256:05455a08881ea9cf0e752bc48e61bbd71a34c029bb13df01e40e3e70e0d007bd
+deleted: sha256:d4fc045c9e3a848011de66f34b81f052d4f2c15a17bb196d637e526349601820
+
+Total reclaimed space: 7.377MB
+Using default tag: latest
+latest: Pulling from library/alpine
+4abcf2066143: Pulling fs layer
+4abcf2066143: Verifying Checksum
+4abcf2066143: Download complete
+4abcf2066143: Pull complete
+Digest: sha256:c5b1261d6d3e43071626931fc004f70149baeba2c8ec672bd4f27761f8e1ad6b
+Status: Downloaded newer image for alpine:latest
+docker.io/library/alpine:latest
+       Value   Percentile   TotalCount 1/(1-Percentile)
+
+ 1474559.000     0.000000            1         1.00
+ 1485823.000     0.100000            4         1.11
+ 1497087.000     0.200000            7         1.25
+ 1505279.000     0.300000           10         1.43
+ 1511423.000     0.400000           15         1.67
+ 1515519.000     0.500000           17         2.00
+ 1525759.000     0.550000           19         2.22
+ 1527807.000     0.600000           20         2.50
+ 1531903.000     0.650000           22         2.86
+ 1534975.000     0.700000           24         3.33
+ 1537023.000     0.750000           25         4.00
+ 1548287.000     0.775000           26         4.44
+ 1560575.000     0.800000           27         5.00
+ 1563647.000     0.825000           28         5.71
+ 1579007.000     0.850000           29         6.67
+ 1579007.000     0.875000           29         8.00
+ 1588223.000     0.887500           30         8.89
+ 1588223.000     0.900000           30        10.00
+ 1594367.000     0.912500           31        11.43
+ 1594367.000     0.925000           31        13.33
+ 1594367.000     0.937500           31        16.00
+ 1618943.000     0.943750           32        17.78
+ 1618943.000     0.950000           32        20.00
+ 1618943.000     0.956250           32        22.86
+ 1618943.000     0.962500           32        26.67
+ 1618943.000     0.968750           32        32.00
+ 1650687.000     0.971875           33        35.56
+ 1650687.000     1.000000           33          inf
+#[Mean    =  1528009.697, StdDeviation   =    40002.767]
+#[Max     =  1650687.000, Total count    =           33]
+#[Buckets =           22, SubBuckets     =         2048]

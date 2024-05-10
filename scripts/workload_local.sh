@@ -11,4 +11,5 @@ workload() {
     # docker run $IMAGE_NAME
 }
 
-time_micro workload
+# time_micro workload
+sudo ${PROJ_DIR}/build/src/client/local_client

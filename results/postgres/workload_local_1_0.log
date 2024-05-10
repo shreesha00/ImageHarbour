@@ -1,0 +1,4735 @@
+Total reclaimed space: 0B
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+bc6be004018d: Waiting
+0fb515267889: Waiting
+c8fd86656ac0: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Verifying Checksum
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+7d14fce4c0c7: Waiting
+a11b69383d8b: Waiting
+bb1a7eb4d877: Waiting
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+d0c0d42ce84d: Waiting
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+c07c2e84ef9b: Waiting
+7d14fce4c0c7: Waiting
+e4d84cc0094d: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+c8fd86656ac0: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+219a2703456d: Waiting
+bc6be004018d: Waiting
+c07c2e84ef9b: Waiting
+c8fd86656ac0: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+14f5a23e0031: Waiting
+e4d84cc0094d: Pulling fs layer
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Pulling fs layer
+bc6be004018d: Waiting
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+d0c0d42ce84d: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+e4d84cc0094d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bc6be004018d: Waiting
+bb1a7eb4d877: Pulling fs layer
+7d14fce4c0c7: Waiting
+d0c0d42ce84d: Waiting
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+c8fd86656ac0: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+219a2703456d: Waiting
+14f5a23e0031: Waiting
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+c8fd86656ac0: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+bb1a7eb4d877: Waiting
+e4d84cc0094d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+14f5a23e0031: Waiting
+bb1a7eb4d877: Pulling fs layer
+d0c0d42ce84d: Waiting
+0fb515267889: Pulling fs layer
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+0fb515267889: Waiting
+bb1a7eb4d877: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+bc6be004018d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+14f5a23e0031: Waiting
+bb1a7eb4d877: Pulling fs layer
+7d14fce4c0c7: Waiting
+0fb515267889: Pulling fs layer
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Pulling fs layer
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Pulling fs layer
+14f5a23e0031: Waiting
+e4d84cc0094d: Pulling fs layer
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+bc6be004018d: Waiting
+219a2703456d: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+e4d84cc0094d: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+14f5a23e0031: Waiting
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+d0c0d42ce84d: Waiting
+e4d84cc0094d: Waiting
+0fb515267889: Waiting
+bc6be004018d: Waiting
+a11b69383d8b: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+219a2703456d: Waiting
+bc6be004018d: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+e4d84cc0094d: Waiting
+c07c2e84ef9b: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+e4d84cc0094d: Waiting
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+14f5a23e0031: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+bb1a7eb4d877: Waiting
+7d14fce4c0c7: Waiting
+0fb515267889: Waiting
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+14f5a23e0031: Waiting
+e4d84cc0094d: Pulling fs layer
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+bc6be004018d: Waiting
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+e4d84cc0094d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+e4d84cc0094d: Pulling fs layer
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Pulling fs layer
+219a2703456d: Waiting
+bc6be004018d: Waiting
+0fb515267889: Pulling fs layer
+c07c2e84ef9b: Waiting
+c8fd86656ac0: Waiting
+a11b69383d8b: Pulling fs layer
+e4d84cc0094d: Waiting
+0fb515267889: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+d0c0d42ce84d: Waiting
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Pulling fs layer
+7d14fce4c0c7: Waiting
+219a2703456d: Waiting
+0fb515267889: Pulling fs layer
+c07c2e84ef9b: Waiting
+a11b69383d8b: Pulling fs layer
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+bc6be004018d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+d0c0d42ce84d: Waiting
+bb1a7eb4d877: Pulling fs layer
+14f5a23e0031: Waiting
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+a11b69383d8b: Pulling fs layer
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+e4d84cc0094d: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+d0c0d42ce84d: Waiting
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+14f5a23e0031: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+c8fd86656ac0: Waiting
+0fb515267889: Waiting
+219a2703456d: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+d0c0d42ce84d: Waiting
+219a2703456d: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+7d14fce4c0c7: Waiting
+bb1a7eb4d877: Waiting
+bc6be004018d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+d0c0d42ce84d: Waiting
+219a2703456d: Pulling fs layer
+7d14fce4c0c7: Waiting
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+d0c0d42ce84d: Waiting
+c8fd86656ac0: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+219a2703456d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+bc6be004018d: Waiting
+e4d84cc0094d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+d0c0d42ce84d: Waiting
+a11b69383d8b: Pulling fs layer
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+bc6be004018d: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+219a2703456d: Waiting
+c8fd86656ac0: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+d0c0d42ce84d: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+a11b69383d8b: Pulling fs layer
+c07c2e84ef9b: Waiting
+bc6be004018d: Waiting
+0fb515267889: Waiting
+bb1a7eb4d877: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+bc6be004018d: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+219a2703456d: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+d0c0d42ce84d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+d0c0d42ce84d: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+14f5a23e0031: Waiting
+a11b69383d8b: Waiting
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+14f5a23e0031: Waiting
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+d0c0d42ce84d: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+bc6be004018d: Waiting
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+7d14fce4c0c7: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+d0c0d42ce84d: Waiting
+bb1a7eb4d877: Pulling fs layer
+14f5a23e0031: Waiting
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+a11b69383d8b: Pulling fs layer
+c8fd86656ac0: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+bb1a7eb4d877: Waiting
+c07c2e84ef9b: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+a11b69383d8b: Waiting
+c8fd86656ac0: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+d0c0d42ce84d: Waiting
+219a2703456d: Pulling fs layer
+7d14fce4c0c7: Waiting
+c07c2e84ef9b: Pulling fs layer
+14f5a23e0031: Waiting
+c8fd86656ac0: Waiting
+e4d84cc0094d: Pulling fs layer
+219a2703456d: Waiting
+bb1a7eb4d877: Pulling fs layer
+bc6be004018d: Waiting
+0fb515267889: Pulling fs layer
+c07c2e84ef9b: Waiting
+a11b69383d8b: Pulling fs layer
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+219a2703456d: Pulling fs layer
+bc6be004018d: Waiting
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+219a2703456d: Waiting
+c8fd86656ac0: Waiting
+c07c2e84ef9b: Waiting
+bb1a7eb4d877: Pulling fs layer
+e4d84cc0094d: Waiting
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+219a2703456d: Waiting
+bc6be004018d: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+7d14fce4c0c7: Waiting
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+bc6be004018d: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+c8fd86656ac0: Waiting
+0fb515267889: Waiting
+14f5a23e0031: Waiting
+d0c0d42ce84d: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+14f5a23e0031: Waiting
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+a11b69383d8b: Pulling fs layer
+219a2703456d: Waiting
+c07c2e84ef9b: Waiting
+bb1a7eb4d877: Waiting
+c8fd86656ac0: Waiting
+d0c0d42ce84d: Waiting
+0fb515267889: Waiting
+e4d84cc0094d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+14f5a23e0031: Waiting
+0fb515267889: Waiting
+bb1a7eb4d877: Waiting
+7d14fce4c0c7: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+219a2703456d: Waiting
+bc6be004018d: Waiting
+c8fd86656ac0: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+bc6be004018d: Waiting
+a11b69383d8b: Pulling fs layer
+219a2703456d: Waiting
+c8fd86656ac0: Waiting
+c07c2e84ef9b: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+bb1a7eb4d877: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+c07c2e84ef9b: Waiting
+a11b69383d8b: Waiting
+e4d84cc0094d: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+d0c0d42ce84d: Waiting
+7d14fce4c0c7: Waiting
+bc6be004018d: Waiting
+a11b69383d8b: Waiting
+14f5a23e0031: Waiting
+c07c2e84ef9b: Waiting
+c8fd86656ac0: Waiting
+bb1a7eb4d877: Waiting
+e4d84cc0094d: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+14f5a23e0031: Waiting
+bb1a7eb4d877: Pulling fs layer
+bc6be004018d: Waiting
+0fb515267889: Pulling fs layer
+7d14fce4c0c7: Waiting
+c8fd86656ac0: Waiting
+a11b69383d8b: Pulling fs layer
+219a2703456d: Waiting
+e4d84cc0094d: Waiting
+0fb515267889: Waiting
+bb1a7eb4d877: Waiting
+a11b69383d8b: Waiting
+c07c2e84ef9b: Waiting
+d0c0d42ce84d: Waiting
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+d0c0d42ce84d: Waiting
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+14f5a23e0031: Waiting
+bc6be004018d: Waiting
+c07c2e84ef9b: Waiting
+7d14fce4c0c7: Waiting
+e4d84cc0094d: Waiting
+c8fd86656ac0: Waiting
+219a2703456d: Waiting
+bb1a7eb4d877: Waiting
+0fb515267889: Waiting
+a11b69383d8b: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Verifying Checksum
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Verifying Checksum
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Verifying Checksum
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+Deleted Images:
+untagged: node5:5000/postgres:15
+untagged: node5:5000/postgres@sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+deleted: sha256:e3e85a8d0b0fbeb7413fc527035a9d61816da66a582efb423c281075c81d703a
+deleted: sha256:a5d6e97b48594d558e2fdfcf0917550840919138efb782212f770d9f25844d30
+deleted: sha256:dd3458d0ad9fcba3e85aaf0f11a3260fb620eac2fe68b6e43ddb7aa01c0434d0
+deleted: sha256:d19e9aa0537f5f2a7acf099705131f6061c9305236cc1e8a7cb4b6811a4497f6
+deleted: sha256:c35566b70bf510687d9603f2d891c66a2f0ec8c7ee0631338989f57c3df502f3
+deleted: sha256:5badd9df03ad6ad230aad25d522c6a000c307719bb852f9360a0fcb535ecbd07
+deleted: sha256:8591d945a69c62a35098ab4df8fe15d75604553fb8aebca7ac013b50ab91d124
+deleted: sha256:eb1e280333985cefb35f5a0992aa2cc4e4bdb829e2245b6d47523014d279d059
+deleted: sha256:f184fa6d1dc65e86b9e304655f92e042735cd442d127e516932e763caa9e0f2d
+deleted: sha256:9df2c18c4a31ff12f6b65cdde884d087d0be879f22f2a223af3e80903d11c885
+deleted: sha256:cc9d6d82fa6ffd2fa20ea830e61056f510f4a4f388b2103b970c081c9434e983
+deleted: sha256:4594f474fa2f86c95edc1c021c3cb7fa46906485ab9c566c425043ebd65a5617
+deleted: sha256:f7eb11c22f02c0d56ea95d8d21bc98da881d13acc3f165e0fac7cf27645b82e0
+deleted: sha256:bd5c058a8faea29c6d356884a8d8b1de3f7252066722f2a895889027fb62758f
+deleted: sha256:52ec5a4316fadc09a4a51f82b8d7b66ead0d71bea4f75e81e25b4094c4219061
+
+Total reclaimed space: 440.4MB
+15: Pulling from postgres
+b0a0cf830b12: Pulling fs layer
+bba71d614e9c: Pulling fs layer
+6f2e6d5ebad3: Pulling fs layer
+d0c0d42ce84d: Pulling fs layer
+14f5a23e0031: Pulling fs layer
+7d14fce4c0c7: Pulling fs layer
+bc6be004018d: Pulling fs layer
+c8fd86656ac0: Pulling fs layer
+219a2703456d: Pulling fs layer
+c07c2e84ef9b: Pulling fs layer
+e4d84cc0094d: Pulling fs layer
+bb1a7eb4d877: Pulling fs layer
+0fb515267889: Pulling fs layer
+a11b69383d8b: Pulling fs layer
+c07c2e84ef9b: Waiting
+7d14fce4c0c7: Waiting
+d0c0d42ce84d: Waiting
+e4d84cc0094d: Waiting
+bb1a7eb4d877: Waiting
+bc6be004018d: Waiting
+219a2703456d: Waiting
+0fb515267889: Waiting
+c8fd86656ac0: Waiting
+a11b69383d8b: Waiting
+14f5a23e0031: Waiting
+bba71d614e9c: Verifying Checksum
+bba71d614e9c: Download complete
+d0c0d42ce84d: Verifying Checksum
+d0c0d42ce84d: Download complete
+6f2e6d5ebad3: Verifying Checksum
+6f2e6d5ebad3: Download complete
+7d14fce4c0c7: Download complete
+bc6be004018d: Verifying Checksum
+bc6be004018d: Download complete
+c8fd86656ac0: Verifying Checksum
+c8fd86656ac0: Download complete
+14f5a23e0031: Verifying Checksum
+14f5a23e0031: Download complete
+c07c2e84ef9b: Verifying Checksum
+c07c2e84ef9b: Download complete
+e4d84cc0094d: Download complete
+bb1a7eb4d877: Verifying Checksum
+bb1a7eb4d877: Download complete
+0fb515267889: Verifying Checksum
+0fb515267889: Download complete
+a11b69383d8b: Verifying Checksum
+a11b69383d8b: Download complete
+b0a0cf830b12: Verifying Checksum
+b0a0cf830b12: Download complete
+219a2703456d: Download complete
+b0a0cf830b12: Pull complete
+bba71d614e9c: Pull complete
+6f2e6d5ebad3: Pull complete
+d0c0d42ce84d: Pull complete
+14f5a23e0031: Pull complete
+7d14fce4c0c7: Pull complete
+bc6be004018d: Pull complete
+c8fd86656ac0: Pull complete
+219a2703456d: Pull complete
+c07c2e84ef9b: Pull complete
+e4d84cc0094d: Pull complete
+bb1a7eb4d877: Pull complete
+0fb515267889: Pull complete
+a11b69383d8b: Pull complete
+Digest: sha256:37ca90422e2d5133ff8c197fcb98db7818fc8b076a460302d80cfb5bb261a0a8
+Status: Downloaded newer image for node5:5000/postgres:15
+node5:5000/postgres:15
+       Value   Percentile   TotalCount 1/(1-Percentile)
+
+ 3037183.000     0.000000            2         1.00
+ 3043327.000     0.100000            7         1.11
+ 3047423.000     0.200000           12         1.25
+ 3051519.000     0.300000           17         1.43
+ 3061759.000     0.400000           22         1.67
+ 3067903.000     0.500000           29         2.00
+ 3074047.000     0.550000           34         2.22
+ 3074047.000     0.600000           34         2.50
+ 3076095.000     0.650000           39         2.86
+ 3076095.000     0.700000           39         3.33
+ 3078143.000     0.750000           44         4.00
+ 3078143.000     0.775000           44         4.44
+ 3078143.000     0.800000           44         5.00
+ 3082239.000     0.825000           47         5.71
+ 3082239.000     0.850000           47         6.67
+ 3086335.000     0.875000           49         8.00
+ 3086335.000     0.887500           49         8.89
+ 3090431.000     0.900000           50        10.00
+ 3092479.000     0.912500           51        11.43
+ 3092479.000     0.925000           51        13.33
+ 3096575.000     0.937500           52        16.00
+ 3096575.000     0.943750           52        17.78
+ 3098623.000     0.950000           53        20.00
+ 3098623.000     0.956250           53        22.86
+ 3098623.000     0.962500           53        26.67
+ 3104767.000     0.968750           55        32.00
+ 3104767.000     1.000000           55          inf
+#[Mean    =  3065651.200, StdDeviation   =    17710.814]
+#[Max     =  3104767.000, Total count    =           55]
+#[Buckets =           22, SubBuckets     =         2048]

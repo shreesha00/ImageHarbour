@@ -37,7 +37,7 @@ reset_logs() {
             "sudo rm -rf $LOG_DIR && sudo mkdir -p $LOG_DIR && sudo chmod 777 $LOG_DIR"
     done
 
-    for ((i = 0; i < ${#mem_svr[@]}; i++)); do
+    for ((i = 0; i < ${#image_svr[@]}; i++)); do
         node="${image_svr[i]}"
         ssh -i ${PASSLESS_ENTRY} $USER@node$node \
             "sudo rm -rf $LOG_DIR && sudo mkdir -p $LOG_DIR && sudo chmod 777 $LOG_DIR"
@@ -50,7 +50,7 @@ collect_logs() {
         scp -i ${PASSLESS_ENTRY} $USER@node$node:$LOG_DIR/memsvr_$node.log $LOCAL_LOG_DIR
     done
 
-    for ((i = 0; i < ${#mem_svr[@]}; i++)); do
+    for ((i = 0; i < ${#image_svr[@]}; i++)); do
         node="${image_svr[i]}"
         scp -i ${PASSLESS_ENTRY} $USER@node$node:$LOG_DIR/imagesvr_$node.log $LOCAL_LOG_DIR
     done
