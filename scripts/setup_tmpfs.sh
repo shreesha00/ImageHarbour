@@ -1,7 +1,7 @@
 #!/bin/bash
 
 TMPFS_DIR="/tmp_harbor"
-TMPFS_SIZE="16G"
+TMPFS_SIZE="30G"
 
 if [ -d "$TMPFS_DIR" ]; then
     sudo umount $TMPFS_DIR

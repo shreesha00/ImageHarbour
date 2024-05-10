@@ -20,7 +20,7 @@ ImageHarbourClient::ImageHarbourClient(const Properties& p) : del_nexus_on_final
         LOG(INFO) << "Connected to memory server " << svr;
     }
 
-    scratch_pad_ = new char[5 * SCRATCH_PAD_SIZE];
+    scratch_pad_ = new char[10 * SCRATCH_PAD_SIZE];
     scratch_pad_offset_ = 0;
 
     buf_ = new infinity::memory::Buffer(context_, CACHE_GRANULARITY_MIB * MIB);
@@ -114,13 +114,21 @@ void ImageHarbourClient::FetchImageMetadata(const std::string& image_name) {
 
 void ImageHarbourClient::StoreImage(const std::string& image_path) {
     // create file using open
-    int fd = open(image_path.c_str(), O_CREAT | O_WRONLY, 0777);
+    int fd = open(image_path.c_str(), O_CREAT | O_WRONLY | O_TRUNC, 0777);
     if (fd < 0) {
         LOG(ERROR) << "Failed to open file " << image_path;
     }
 
-    if (scratch_pad_offset_ != write(fd, scratch_pad_, scratch_pad_offset_)) {
-        LOG(ERROR) << "Failed to write to file " << image_path;
+    uint64_t remaining_size = scratch_pad_offset_;
+    uint64_t offset = 0;
+    while (remaining_size > 0) {
+        uint64_t write_size = std::min(remaining_size, SCRATCH_PAD_SIZE);
+        size_t ret = write(fd, scratch_pad_ + offset, write_size);
+        if (write_size != ret) {
+            LOG(ERROR) << "Failed to write to file " << image_path << " with error " << strerror(errno);
+        }
+        remaining_size -= write_size;
+        offset += write_size;
     }
     close(fd);
 }

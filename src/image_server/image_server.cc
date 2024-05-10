@@ -158,8 +158,10 @@ void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, u
         }
 
         // fetch and store image locally
+        auto string_wo = image_name;
+        string_wo.erase(std::remove(string_wo.begin(), string_wo.end(), '/'), string_wo.end());
         auto fetch_image_cmd = "docker pull " + image_name;
-        auto store_image_cmd = "docker save " + image_name + " -o " + folder_path_ + image_name + ".tar";
+        auto store_image_cmd = "docker save " + image_name + " -o " + folder_path_ + string_wo + ".tar";
         std::ignore = system(fetch_image_cmd.c_str());
         std::ignore = system(store_image_cmd.c_str());
 
@@ -177,7 +179,7 @@ void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, u
         pclose(fp);
 
         // read image file
-        int fd = open((folder_path_ + image_name + ".tar").c_str(), O_RDONLY);
+        int fd = open((folder_path_ + string_wo + ".tar").c_str(), O_RDONLY);
         struct stat info;
         if (fstat(fd, &info) < 0) {
             LOG(ERROR) << "Can't stat image file";
@@ -213,7 +215,7 @@ void ImageServer::Get(std::string &image_name, std::vector<std::pair<uint64_t, u
                     buffer, 0,
                     static_cast<infinity::memory::RegionToken *>(
                         per_thread_qps_[thread_id][memory_server]->getUserData()),
-                    (remote_start_chunk + i) * chunk_size_bytes, rem_size, &request_token);
+                    (remote_start_chunk + curr_chunk) * chunk_size_bytes, rem_size, &request_token);
 
                 request_token.waitUntilCompleted();
                 curr_chunk++;

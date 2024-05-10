@@ -87,5 +87,5 @@ wait
 # tear_down_daemon
 cluster_after_work
 collect_client_logs
-reset_tmpfs
+# reset_tmpfs
 docker_rmi_all
