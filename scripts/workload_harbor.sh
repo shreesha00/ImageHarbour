@@ -2,8 +2,8 @@
 
 source commons.sh
 
-IMAGE_NAME="pytorch/pytorch"
-IMAGE_PATH="$TMPFS_DIR/pytorchpytorch.tar"
+IMAGE_NAME="postgres:15"
+IMAGE_PATH="$TMPFS_DIR/postgres:15.tar"
 
 # workload() {
 #     echo -n "$IMAGE_NAME $IMAGE_PATH" | sudo socat -t 10 - UNIX-CONNECT:/imageharbour/daemon | cat
